@@ -1,4 +1,4 @@
-# BattleshipTournamentTo get started, Import the project into Eclipse by using "Import existing Java project."
+To get started, Import the project into Eclipse by using "Import existing Java project."
 
 There are two test player classes, TestGamePlayer.java and TestGamePlayer2.java.  This allows you to easily modify them and play the two classes against eachother.
 
